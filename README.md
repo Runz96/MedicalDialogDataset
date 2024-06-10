@@ -3,4 +3,7 @@
 ## Datasets
 
 ### 1. [MedDG](https://github.com/lwgkzl/MedDG)
-MedDG: an entity-centric medical consultation dataset for entity-aware medical dialogue generation.
+MedDG: An Entity-centric Medical Consultation Dataset for Entity-aware Medical Dialogue Generation.
+
+### 1. [ReMeDi](https://github.com/yanguojun123/Medical-Dialogue)
+ReMeDi: Resources for Multi-domain, Multi-service, Medical Dialogues
