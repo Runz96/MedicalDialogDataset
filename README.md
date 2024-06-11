@@ -10,6 +10,8 @@ MedDG: An Entity-centric Medical Consultation Dataset for Entity-aware Medical D
 ### 2. [ReMeDi](https://github.com/yanguojun123/Medical-Dialogue)
 ReMeDi: Resources for Multi-domain, Multi-service, Medical Dialogues
 
+[Paper](https://dl.acm.org/doi/10.1145/3477495.3531809): ReMeDi: Resources for Multi-domain, Multi-service, Medical Dialogues
+
 ### 3. [Coviddialog](https://huggingface.co/datasets/UCSD-AI4H/covid_qa_ucsd)
 Coviddialog: Medical Dialogue Datasets about Covid-19
 
