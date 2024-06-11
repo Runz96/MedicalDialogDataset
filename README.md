@@ -2,6 +2,10 @@
 
 ## Datasets
 
+### 1. [MedDialog](https://huggingface.co/datasets/UCSD26/medical_dialog)
+MedDialog: Large-scale Medical Dialogue Datasets
+[Paper](https://aclanthology.org/2020.emnlp-main.743/): MedDialog: Large-scale Medical Dialogue Datasets
+
 ### 1. [MedDG](https://github.com/lwgkzl/MedDG)
 MedDG: An Entity-centric Medical Consultation Dataset for Entity-aware Medical Dialogue Generation.
 
